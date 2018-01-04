@@ -29,4 +29,4 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->```
 
-<h2>100 Days of code with Daniel Torres</h2>
+<h1>100 Days of code with Daniel Torres</h1>

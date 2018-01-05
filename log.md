@@ -10,7 +10,6 @@ I will share my progress, and also share some of my internal thoughts & emotions
 ```
 <script>
 function largestOfFour(arr) {
-  // You can do this!
   return arr;
 }
 

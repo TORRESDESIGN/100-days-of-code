@@ -7,12 +7,16 @@ I will share my progress, and also share some of my internal thoughts & emotions
 <h2 align="center">Day 1: Thursday January 4th, 2018</h2>
 
 **Today's Progress:** Today I worked on a basic algorithm problem on Freecodecamp, challenge: Return Largest Numbers in Arrays. This is what the problem looks like:
-```function largestOfFour(arr) {
+```
+<script>
+function largestOfFour(arr) {
   // You can do this!
   return arr;
 }
 
-largestOfFour([[4, 5, 1, 3], [13, 27, 18, 26], [32, 35, 37, 39], [1000, 1001, 857, 1]]);```
+largestOfFour([[4, 5, 1, 3], [13, 27, 18, 26], [32, 35, 37, 39], [1000, 1001, 857, 1]]);
+</script>
+```
 
 
 **Thoughts:** write here

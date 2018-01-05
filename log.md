@@ -8,7 +8,7 @@ I will share my progress, and also share some of my internal thoughts & emotions
 <img src="#" alt="description">
 **Today's Progress:** write here
 
-**Thoughts:**write here
+**Thoughts:** write here
 
 **Link to tweet:** [YourName Day1] (insertLinkToTweet)
 

@@ -35,7 +35,7 @@ Here's is my blueprint:
 
 6.Join all those numbers into one array
 
-7.if (Challenge completed){eat pizza};
+7.Eat Pizza as reward
 
 
 

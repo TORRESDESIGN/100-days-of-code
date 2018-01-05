@@ -29,7 +29,7 @@ Here's is my blueprint:
 
 3.Compare the next number vs var largestNum, if number is bigger, it takes it's place
 
-4.Once it cycles through a sub array it stores the var largestNum and pushes that number onto var largestArray
+4.Once it cycles through a sub array it stores the var largestNum and pushes that number into var largestArray
 
 5.Once it cycles through all the sub arrays, there should be 4 numbers
 

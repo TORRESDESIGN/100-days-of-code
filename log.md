@@ -23,11 +23,17 @@ While working on this, I ran into an issue where my for loop was no working corr
 I did not finish, but I hope to make better progress tomorrow.:smile:
 Here's is my blueprint:
 1.Loop through all the main arrays
+
 2.If number is > 0 store it as var largestNum
+
 3.Compare the next number vs var largestNum, if number is bigger, it takes it's place
+
 4.Once it cycles through a sub array it stores the var largestNum and pushes that number onto var largestArray
+
 5.Once it cycles through all the sub arrays, there should be 4 numbers
+
 6.Join all those numbers into one array
+
 7.if (Challenge completed){eat pizza};
 
 

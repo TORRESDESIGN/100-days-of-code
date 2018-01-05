@@ -5,8 +5,15 @@ Howdy World! You are about to witness the journey of a soon-to-be dad take on th
 I will share my progress, and also share some of my internal thoughts & emotions, as I'm sure there will be capricious moments. Well it's now time to roll of my sleeves and start this journey.
 
 <h2 align="center">Day 1: Thursday January 4th, 2018</h2>
-<img src="#" alt="description">
-**Today's Progress:** write here
+
+**Today's Progress:** Today I worked on a basic algorithm problem on Freecodecamp, challenge: Return Largest Numbers in Arrays. This is what the problem looks like:
+```function largestOfFour(arr) {
+  // You can do this!
+  return arr;
+}
+
+largestOfFour([[4, 5, 1, 3], [13, 27, 18, 26], [32, 35, 37, 39], [1000, 1001, 857, 1]]);```
+
 
 **Thoughts:** write here
 

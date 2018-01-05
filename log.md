@@ -41,5 +41,5 @@ Here's is my blueprint:
 
 **Thoughts:** This wasn't a very good start for me, I got pretty tripped up on that typo. I know this a harder challenge and it takes time, but I relish that satisfaction of when a problem is solved. I'm sure tomorrow will be much better.
 
-**Link to tweet:** [Daniel Torres Day1] (https://twitter.com/RoosterMonster/status/949122795883044864)
+**Link to tweet:** [Daniel Torres Day1](https://twitter.com/RoosterMonster/status/949122795883044864)
 

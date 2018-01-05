@@ -22,6 +22,7 @@ While working on this, I ran into an issue where my for loop was no working corr
 
 I did not finish, but I hope to make better progress tomorrow.:smile:
 Here's is my blueprint:
+
 1.Loop through all the main arrays
 
 2.If number is > 0 store it as var largestNum

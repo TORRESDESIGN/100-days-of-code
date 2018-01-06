@@ -69,7 +69,7 @@ I got it to return the 2 largest numbers, so a little progress here. Hopefully t
 
 **Thoughts:** Today was tough, the if statement inside the for loop was giving me problems. I got it to work, but it's not perfect. I know these struggles are just going to solidfy my knowledge so I don't run across them again. Tomorrow shall be a better day!
 
-**Link to tweet:** [Daniel Torres Day2](https://twitter.com/RoosterMonster/status/949122795883044864)
+**Link to tweet:** [Daniel Torres Day2](https://twitter.com/RoosterMonster/status/949543114628190209)
 
 
 

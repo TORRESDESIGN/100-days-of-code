@@ -43,3 +43,33 @@ Here's is my blueprint:
 
 **Link to tweet:** [Daniel Torres Day1](https://twitter.com/RoosterMonster/status/949122795883044864)
 
+<h2 align="center">Day 2: Friday January 5th, 2018</h2>
+
+**Today's Progress:** Today I continued to work on my basic algorithm problem on Freecodecamp, challenge: Return Largest Numbers in Arrays. This is what I have so far:
+```
+<script>
+var largestInt = 0;
+var largestArray = [];
+
+function largestOfFour(arr) {
+  for(var i=0; i < arr.length; i++) {
+    for(var j =0; j < arr[i].length; j++) {
+      if(largestInt < arr[i][j]) {
+        largestInt = arr[i][j];
+        console.log(largestInt);
+      }
+    }
+  }
+}
+
+largestOfFour([[4, 5, 1, 3],[1,2,3,4]]);
+</script>
+```
+I got it to return the 2 largest numbers, so a little progress here. Hopefully tomorrow I can finsih it!
+
+**Thoughts:** Today was tough, the if statement inside the for loop was giving me problems. I got it to work, but it's not perfect. I know these struggles are just going to solidfy my knowledge so I don't run across them again. Tomorrow shall be a better day!
+
+**Link to tweet:** [Daniel Torres Day2](https://twitter.com/RoosterMonster/status/949122795883044864)
+
+
+

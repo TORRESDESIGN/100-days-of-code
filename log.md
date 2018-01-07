@@ -71,5 +71,31 @@ I got it to return the 2 largest numbers, so a little progress here. Hopefully t
 
 **Link to tweet:** [Daniel Torres Day2](https://twitter.com/RoosterMonster/status/949543114628190209)
 
+<h2 align="center">Day 3: Saturday January 6th, 2018</h2>
 
+**Today's Progress:** Today I continued to work...more like struggle on my basic algorithm problem on Freecodecamp, challenge: Return Largest Numbers in Arrays. This is what I have so far:
 
+```
+<script>
+var largestInt = 0;
+var largestArray = [];
+
+function largestOfFour(arr) {
+  for(var i=0; i < arr.length; i++) {
+    for(var j =0; j < arr[i].length; j++) {
+      if(arr[i][j] > largestInt) {
+        largestInt = arr[i][j];
+      }
+    }
+    console.log(largestInt);
+  }
+}
+
+largestOfFour([[4, 5, 1, 3],[1,2,3,6]]);
+</script>
+```
+It's spitting the largest number correctly from each sub array, I'm having trouble storing those numbers into a new array.
+
+**Thoughts:** The struggle is real, but I beleive I am making progress from learning from my mistakes, on what works and what doesn't. Hopefully it makes more sense tomorrow.
+
+**Link to tweet:** [Daniel Torres Day3](https://twitter.com/RoosterMonster/status/949543114628190209)

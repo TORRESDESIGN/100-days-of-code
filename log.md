@@ -130,5 +130,5 @@ This should be extremely valuable and key to cycling and extracting info from ar
 
 **Thoughts:** I'm happy with the solution, I'm sure their is an easier method. Excited to see what other ways I can use this trick.
 
-**Link to tweet:** [Daniel Torres Day3](https://twitter.com/RoosterMonster/status/949543114628190209)
+**Link to tweet:** [Daniel Torres Day4](https://twitter.com/RoosterMonster/status/950234835263483904)
 

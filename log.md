@@ -99,3 +99,36 @@ It's spitting the largest number correctly from each sub array, I'm having troub
 **Thoughts:** The struggle is real, but I beleive I am making progress from learning from my mistakes, on what works and what doesn't. Hopefully it makes more sense tomorrow.
 
 **Link to tweet:** [Daniel Torres Day3](https://twitter.com/RoosterMonster/status/949543114628190209)
+
+<h2 align="center">Day 4: Sunday January 7th, 2018</h2>
+
+**Today's Progress:** Today was a glorious day! I finished my algorithm problem on Freecodecamp, challenge: Return Largest Numbers in Arrays. This is my solution:
+
+```
+<script>
+var largestInt = 0;
+var largestArray = [];
+
+function largestOfFour(arr) {
+  for(var i=0; i < arr.length; i++) {
+    largestInt = arr[i][0];
+    for(var j =0; j < arr[i].length; j++) {
+      if(arr[i][j] > largestInt) {
+        largestInt = arr[i][j];
+      }
+    }/*for loop 2*/
+    largestArray.push(largestInt);
+  }/*for loop 1*/
+  console.log(largestArray);
+}
+
+largestOfFour([[13, 27, 18, 26], [4, 5, 1, 3], [32, 35, 37, 39], [1000, 1001, 857, 1]]);
+</script>
+```
+I was near the end of my hour when I figured this out, it was the function parameter index that was the missing key.
+This should be extremely valuable and key to cycling and extracting info from arrays.
+
+**Thoughts:** I'm happy with the solution, I'm sure their is an easier method. Excited to see what other ways I can use this trick.
+
+**Link to tweet:** [Daniel Torres Day3](https://twitter.com/RoosterMonster/status/949543114628190209)
+

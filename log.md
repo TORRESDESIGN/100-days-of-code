@@ -132,3 +132,33 @@ This should be extremely valuable and key to cycling and extracting info from ar
 
 **Link to tweet:** [Daniel Torres Day4](https://twitter.com/RoosterMonster/status/950234835263483904)
 
+<h2 align="center">Day 5: Monday January 8th, 2018</h2>
+
+**Today's Progress:** Today was a glorious day! I finished my algorithm problem on Freecodecamp, challenge: Return Largest Numbers in Arrays. This is my solution:
+
+```
+<script>
+
+function confirmEnding(str, target) {
+  strLength = str.length;
+  targetLength = target.length;
+  num = strLength - targetLength;
+  res = str.substring(num)
+  if (target == res) {
+    console.log(true);
+  } else {
+    console.log(false);
+  }
+}
+
+/*confirmEnding("Bastian", "n");*/
+confirmEnding("He has to give me a new name", "dog");
+/*
+1. Split arg string to an array if more than one word otherwise just store single word in an array
+2. Compare target arg to last element of split array
+3.if target arg is == to last element, return true
+*/
+
+/* Possible solution is to get length of target arg, minus the string length, and with that number use in substring method to match*/
+</script>
+```

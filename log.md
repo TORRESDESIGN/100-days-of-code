@@ -196,5 +196,5 @@ I completed this challenge pretty quickly as well, just not as quick as the 1st 
 
 **Thoughts:** I'm super happy to have completed 2 algorithm challenges with ease.:heart_eyes_cat:
 
-**Link to tweet:** [Daniel Torres Day5](https://twitter.com/RoosterMonster/status/950234835263483904)
+**Link to tweet:** [Daniel Torres Day5](https://twitter.com/RoosterMonster/status/950634093456146432)
 

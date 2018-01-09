@@ -6,6 +6,8 @@ I will share my progress, and also share some of my internal thoughts and emotio
 
 <h2 align="center">Day 1: Thursday January 4th, 2018</h2>
 
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
 **Today's Progress:** Today I worked on a basic algorithm problem on Freecodecamp, challenge: Return Largest Numbers in Arrays. This is what the problem looks like:
 ```
 <script>
@@ -45,6 +47,8 @@ Here's is my blueprint:
 
 <h2 align="center">Day 2: Friday January 5th, 2018</h2>
 
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
 **Today's Progress:** Today I continued to work on my basic algorithm problem on Freecodecamp, challenge: Return Largest Numbers in Arrays. This is what I have so far:
 ```
 <script>
@@ -72,6 +76,8 @@ I got it to return the 2 largest numbers, so a little progress here. Hopefully t
 **Link to tweet:** [Daniel Torres Day2](https://twitter.com/RoosterMonster/status/949543114628190209)
 
 <h2 align="center">Day 3: Saturday January 6th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
 
 **Today's Progress:** Today I continued to work...more like struggle on my basic algorithm problem on Freecodecamp, challenge: Return Largest Numbers in Arrays. This is what I have so far:
 
@@ -101,6 +107,8 @@ It's spitting the largest number correctly from each sub array, I'm having troub
 **Link to tweet:** [Daniel Torres Day3](https://twitter.com/RoosterMonster/status/949543114628190209)
 
 <h2 align="center">Day 4: Sunday January 7th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
 
 **Today's Progress:** Today was a glorious day! I finished my algorithm problem on Freecodecamp, challenge: Return Largest Numbers in Arrays. This is my solution:
 
@@ -134,7 +142,9 @@ This should be extremely valuable and key to cycling and extracting info from ar
 
 <h2 align="center">Day 5: Monday January 8th, 2018</h2>
 
-**Today's Progress:** Today was a glorious day! I finished my algorithm problem on Freecodecamp, challenge: Return Largest Numbers in Arrays. This is my solution:
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
+**Today's Progress:** Today was a fantastic day! I finished 2 algorithm problems on Freecodecamp, challenge 1: Confirm the ending. This is my solution:
 
 ```
 <script>
@@ -162,3 +172,29 @@ confirmEnding("He has to give me a new name", "dog");
 /* Possible solution is to get length of target arg, minus the string length, and with that number use in substring method to match*/
 </script>
 ```
+I've been jotting down notes on how I attend to tackle the problem, this has help me to solve the problem quicker it seems, so I included those with my code. This must be a personal record for me, because I solved this problem on the 1st attempt, so thats a great feeling.
+challenge 2: Repeat a string by the second argument. This is my solution:
+```
+<script>
+function repeatStringNumTimes(str, num) { 
+  if(num < 0) {
+    num = " ";
+  }
+  res = str.repeat (num);
+  console.log(res);
+}
+
+repeatStringNumTimes("abc", -1);
+
+/*
+1. return string arg however many times the number arg is
+2. return an empty string if number arg is a negative int
+*/
+</script>
+```
+I completed this challenge pretty quickly as well, just not as quick as the 1st one. A little bit of trial and error did the trick here.
+
+**Thoughts:** I'm super happy to have completed 2 algorithm challenges with ease.:heart_eyes_cat:
+
+**Link to tweet:** [Daniel Torres Day5](https://twitter.com/RoosterMonster/status/950234835263483904)
+

@@ -234,7 +234,7 @@ truncateString("A-tisket a-tasket A green and yellow basket", 2);
 ```
 I'll have to look into the blog and see if anyone has a clear understanding of the instructions/results wanted.
 
-**Thoughts:** I'm a mix bag of emotions right now. I was able to code what i thought the instructions wanted, but there something else wanted as well that is not clear in the instructions.
+**Thoughts:** I'm a mix bag of emotions right now. I was able to code what i thought the instructions wanted, but there's something else wanted as well that is not clear in the instructions.
 
 **Link to tweet:** [Daniel Torres Day5](https://twitter.com/RoosterMonster/status/950634093456146432)
 

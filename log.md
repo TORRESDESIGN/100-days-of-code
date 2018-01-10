@@ -203,7 +203,7 @@ I completed this challenge pretty quickly as well, just not as quick as the 1st 
 
 **Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
 
-**Today's Progress:** I started on a new alogrithm today, wrote down my steps and competed the code, but their seems to be a lack of clear instructions/request for the objective. Here's my progress: 
+**Today's Progress:** I started on a new alogrithm today, wrote down my steps and competed the code, but there seems to be a lack of clear instructions/request for the objective. Here's my progress: 
 ```
 <script>
 function truncateString(str, num) {

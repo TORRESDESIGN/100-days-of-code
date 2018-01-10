@@ -198,3 +198,44 @@ I completed this challenge pretty quickly as well, just not as quick as the 1st 
 
 **Link to tweet:** [Daniel Torres Day5](https://twitter.com/RoosterMonster/status/950634093456146432)
 
+
+<h2 align="center">Day 6: Tuesday January 9th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
+**Today's Progress:** I started on a new alogrithm today, wrote down my steps and competed the code, but their seems to be a lack of clear instructions/request for the objective. Here's my progress: 
+```
+<script>
+function truncateString(str, num) {
+  var dots = "...";
+  var strLength = str.length;
+  if (num > 3) {
+    var newString = num - 3;
+    var res = str.slice(0, newString);
+    var finalString = res.concat(dots);
+  } else {
+    res = str.slice(0, num);
+    finalString = res.concat(dots);
+  }
+  console.log(finalString);
+}
+
+truncateString("A-tisket a-tasket A green and yellow basket", 2);
+
+/*
+1. Get the length of the string arg and store it in var strLength
+2. If int arg is greater than 3 than do the following
+3. Ing arg - 3 = var newString
+4. str slice(0, newString) = var res
+5. var res + "..." = final string
+6. else add "..." to str = final string
+*/
+</script>
+```
+I'll have to look into the blog and see if anyone has a clear understanding of the instructions/results wanted.
+
+**Thoughts:** I'm a mix bag of emotions right now. I was able to code what i thought the instructions wanted, but their something else wanted as well that is not clear in the instructions.
+
+**Link to tweet:** [Daniel Torres Day5](https://twitter.com/RoosterMonster/status/950634093456146432)
+
+

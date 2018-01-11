@@ -239,3 +239,70 @@ I'll have to look into the blog and see if anyone has a clear understanding of t
 **Link to tweet:** [Daniel Torres Day 6](https://twitter.com/RoosterMonster/status/950955559355793409)
 
 
+<h2 align="center">Day 7: Wednesday January 10th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
+**Today's Progress:** I continued on the Truncate a string alogrithm today, having issues with the last part regarding <= 3 part, keeps running the code twice. Here's my progress: 
+
+```
+<script>
+/*function truncateString(str, num) {
+  var dots = "...";
+  var strLength = str.length;
+  if (num > 3) {
+    var newString = num - 3;
+    var res = str.slice(0, newString);
+    var finalString = res.concat(dots);
+  } else {
+    res = str.slice(0, num);
+    finalString = res.concat(dots);
+  }
+  console.log(finalString);
+}
+
+truncateString("A-tisket a-tasket A green and yellow basket", 2);*/
+
+
+function truncateString(str, num) {
+  var dots = "...";
+  var strLength = str.length;
+  if(num < str.length) {
+    if(num <= 3) {
+      var newInt = strLength - num;
+      var res = str.slice(0, newInt);
+      var finalString = res.concat(dots);
+      console.log(finalString);
+    }
+    var newInt = num - 3;
+    var res = str.slice(0, newInt);
+    var finalString = res.concat(dots);
+    console.log(finalString);
+  } else {
+    console.log(str);
+  }
+}
+
+/*truncateString("A-", 1); */
+truncateString("Absolutely Longer", 2)
+
+
+/*
+if str arg length is longer than num arg, truncate the str with "..." ending, so that the new str... length is = to the num
+if the num arg is <= to 3, truncate the str with "..." ending
+
+1. if str arg length is longer than num arg, do the following:
+2. num - 3 = var numSlice
+3. str.slice(0, numSlice) = var res
+4. res + "..." = var finalString
+5. 
+6. 
+*/
+
+</script>
+```
+I know I'm super close to completing this, and I'm just overthinking it.
+
+**Thoughts:** I'm a bit disappointed with myself, because I thought I would finish this and continue on. I was a bit scatter brain today, kept thinking i knew the answer, but couldn't execute it. I went back to rewriting my notes of action, and did not finish that, so today was a struggle.
+
+**Link to tweet:** [Daniel Torres Day 7](https://twitter.com/RoosterMonster/status/950955559355793409)

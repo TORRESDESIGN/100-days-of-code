@@ -306,3 +306,51 @@ I know I'm super close to completing this, and I'm just overthinking it.
 **Thoughts:** I'm a bit disappointed with myself, because I thought I would finish this and continue on. I was a bit scatter brain today, kept thinking i knew the answer, but couldn't execute it. I went back to rewriting my notes of action, and did not finish that, so today was a struggle.
 
 **Link to tweet:** [Daniel Torres Day 7](https://twitter.com/RoosterMonster/status/951269304955097088)
+
+
+<h2 align="center">Day 8: Wednesday January 11th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
+**Today's Progress:** I finished the Truncate a string alogrithm today, the issues with the last part regarding <= 3 part, was related to the testing practices of using console.log() without a return statement afterwasrds. I've been reading that we should move on from using console.log() to test code, I need to work on that eventually. Here's my code:
+
+```
+<script>
+function truncateString(str, num) {
+  var finalString;
+  if(num < str.length) {
+    if(num <= 3) {
+      finalString = str.slice(0, num).concat("...");
+      console.log(finalString);
+      return;
+    }
+    finalString = str.slice(0, num - 3).concat("...");
+    console.log(finalString);
+  } else {
+    console.log(str);
+  }
+}
+
+/*truncateString("A-", 1);*/ 
+truncateString("A-tisket a-tasket A green and yellow basket", "A-tisket a-tasket A green and yellow basket".length + 2)
+
+
+/*
+if str arg length is longer than num arg, truncate the str with "..." ending, so that the new str... length is = to the num
+if the num arg is <= to 3, truncate the str with "..." ending
+
+1. if str arg length is longer than num arg, do the following:
+2. str.slice(0, num - 3) = var res
+3. res + "..." = var finalString
+4. else return str
+5. if num arg <= 3, do the following
+6. str.slice(0, str.length - num) = var res
+7. res + "..." = var finalString
+*/
+</script>
+```
+My code was longer due to the holding variables I created, but learned that I didn't need them, and that shorten my code quiet a bit. 
+
+**Thoughts:** I'm a little less scatterbrain today, but I'm happy with what I learned, even though I didn't expect to take this long to finish this algorithm.
+
+**Link to tweet:** [Daniel Torres Day 8](https://twitter.com/RoosterMonster/status/951562279283187712)

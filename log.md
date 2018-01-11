@@ -305,4 +305,4 @@ I know I'm super close to completing this, and I'm just overthinking it.
 
 **Thoughts:** I'm a bit disappointed with myself, because I thought I would finish this and continue on. I was a bit scatter brain today, kept thinking i knew the answer, but couldn't execute it. I went back to rewriting my notes of action, and did not finish that, so today was a struggle.
 
-**Link to tweet:** [Daniel Torres Day 7](https://twitter.com/RoosterMonster/status/950955559355793409)
+**Link to tweet:** [Daniel Torres Day 7](https://twitter.com/RoosterMonster/status/951269304955097088)

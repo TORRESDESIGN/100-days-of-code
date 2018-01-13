@@ -393,5 +393,5 @@ I didn't get very far in my opinion, I spent a lot of time trying to understand 
 
 **Thoughts:** I feel pretty dense right now, because I can't understand protypes.
 
-**Link to tweet:** [Daniel Torres Day 9](https://twitter.com/RoosterMonster/status/951562279283187712)
+**Link to tweet:** [Daniel Torres Day 9](https://twitter.com/RoosterMonster/status/952086859563200512)
 

@@ -308,7 +308,7 @@ I know I'm super close to completing this, and I'm just overthinking it.
 **Link to tweet:** [Daniel Torres Day 7](https://twitter.com/RoosterMonster/status/951269304955097088)
 
 
-<h2 align="center">Day 8: Wednesday January 11th, 2018</h2>
+<h2 align="center">Day 8: Thursday January 11th, 2018</h2>
 
 **Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
 
@@ -354,3 +354,44 @@ My code was longer due to the holding variables I created, but learned that I di
 **Thoughts:** I'm a little less scatterbrain today, but I'm happy with what I learned, even though I didn't expect to take this long to finish this algorithm.
 
 **Link to tweet:** [Daniel Torres Day 8](https://twitter.com/RoosterMonster/status/951562279283187712)
+
+<h2 align="center">Day 9: Friday January 12th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
+**Today's Progress:** I started on a new alogorithm today; chunky monkey. I have to write a function that splits an array into groups the length of the second arg. I have to use protoype to do this as well. Here's my code so far before I figured out I'm suppose to use protype:
+```
+<script>
+function chunkArrayInGroups(arr, size) {
+  var myArray = [];
+  var newArr;
+  var newArrLength;
+  for(var i = 0; i < arr.length; i++) {
+    newArrLength = arr - size;
+    
+    var res = arr.slice(arr[0], size);
+    console.log(res);
+  }
+}
+
+
+chunkArrayInGroups(["a", "b", "c", "d"], 2);
+
+/*
+1.
+*/
+
+/*
+0. Create a var myArray = []
+1. Create a for loop that iterates through the 1st arg and pushes info into 1st array of var myArray until iterate # is == to 2nd arg
+2. Than continue the loop and push info into the 2nd array
+3. return myArray
+*/
+</script>
+```
+I didn't get very far in my opinion, I spent a lot of time trying to understand prototype. I still don't fully understand.
+
+**Thoughts:** I feel pretty dense right now, because I can't understand protypes.
+
+**Link to tweet:** [Daniel Torres Day 9](https://twitter.com/RoosterMonster/status/951562279283187712)
+

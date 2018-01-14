@@ -435,5 +435,5 @@ catA._proto_;
 
 **Thoughts:** I'm in the dark about this property, but I do see a little bit of light.
 
-**Link to tweet:** [Daniel Torres Day 10](https://twitter.com/RoosterMonster/status/952086859563200512)
+**Link to tweet:** [Daniel Torres Day 10](https://twitter.com/RoosterMonster/status/952438912907059201)
 

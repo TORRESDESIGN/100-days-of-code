@@ -395,3 +395,45 @@ I didn't get very far in my opinion, I spent a lot of time trying to understand 
 
 **Link to tweet:** [Daniel Torres Day 9](https://twitter.com/RoosterMonster/status/952086859563200512)
 
+
+<h2 align="center">Day 10: Saturday January 13th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
+**Today's Progress:** I took a pause to learn about prototypes, I've been struggling to understand it, but it's slowly making sense after taking this time to read multiple articles and playing with the property. Here's my little sandbox code examples:
+
+```
+<script>
+/*Prototype properties
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
+https://www.pluralsight.com/blog/software-development/understanding-javascript-prototypes
+https://guide.freecodecamp.org/javascript/prototypes*/
+
+/*var o = {
+  a: 2,
+  m: function() {
+    return this.a + 1;
+  }
+};
+
+var p = Object.create(o);
+p.a = 4;
+
+console.log(p.m());*/
+
+/*var a = {a: 4};
+var b = Object.create(a);
+var c = Object.create(b);
+var d = Object.create(null);
+
+console.log(d.hasOwnProperty);*/
+
+catA._proto_;
+
+</script>
+```
+
+**Thoughts:** I'm in the dark about this property, but I do see a little bit of light.
+
+**Link to tweet:** [Daniel Torres Day 10](https://twitter.com/RoosterMonster/status/952086859563200512)
+

@@ -437,3 +437,40 @@ catA._proto_;
 
 **Link to tweet:** [Daniel Torres Day 10](https://twitter.com/RoosterMonster/status/952438912907059201)
 
+
+<h2 align="center">Day 11: Sunday January 14th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
+**Today's Progress:** I continued learning about prototypes, and It makes more sense now. I'm going to try to tackle that algorithm next time. Here's some of my code on prototypes:
+```
+<script>
+/*Prototype properties
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
+https://www.pluralsight.com/blog/software-development/understanding-javascript-prototypes
+https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/ <---Good!
+https://guide.freecodecamp.org/javascript/prototypes*/
+
+var Circle = function(radius) {
+  this.radius = radius;
+}
+
+Circle.prototype.area = function() {
+  return Math.PI*this.radius*this.radius;
+}
+
+var a = new Circle(3),
+    b = new Circle(4);
+
+console.log(a.area().toFixed());
+
+</script>
+```
+This new trick seems pretty powerful, and I'm excited to use it.
+
+**Thoughts:** I'm feeling pretty good with what I know of prototypes so far.
+
+**Link to tweet:** [Daniel Torres Day 11](https://twitter.com/RoosterMonster/status/952777666138025984)
+
+
+

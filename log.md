@@ -473,4 +473,12 @@ This new trick seems pretty powerful, and I'm excited to use it.
 **Link to tweet:** [Daniel Torres Day 11](https://twitter.com/RoosterMonster/status/952777666138025984)
 
 
+<h2 align="center">Day 12: Monday January 15th, 2018</h2>
 
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
+**Today's Progress:** I continued learning about prototypes, I read different authors take on it and tested it out. I'm not going to share any code, since it's just messing around and mostly reading I did today.
+
+**Thoughts:** I'm feeling pretty exhausted, staying up late reading about this complex property.
+
+**Link to tweet:** [Daniel Torres Day 12](https://twitter.com/RoosterMonster/status/953192200753459201)

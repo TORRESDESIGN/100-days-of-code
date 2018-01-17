@@ -506,6 +506,6 @@ chunkArrayInGroups([0, 1, 2, 3, 4, 5, 6, 7, 8], 4);
 
 </script>
 ```
-**Thoughts:** I'm intrigued with this algorithm, feeling neutral, a bit disappointed that I fogot that 0 times any number is 0 :sadface:
+**Thoughts:** I'm intrigued with this algorithm, feeling neutral, a bit disappointed that I fogot that 0 times any number is 0 :sob:
 
 **Link to tweet:** [Daniel Torres Day 13](https://twitter.com/RoosterMonster/status/953522163994181632)

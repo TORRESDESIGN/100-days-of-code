@@ -482,3 +482,30 @@ This new trick seems pretty powerful, and I'm excited to use it.
 **Thoughts:** I'm feeling pretty exhausted, staying up late reading about this complex property.
 
 **Link to tweet:** [Daniel Torres Day 12](https://twitter.com/RoosterMonster/status/953192200753459201)
+
+
+<h2 align="center">Day 13: Tuesday January 16th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
+**Today's Progress:** I finished my prototype algorithm on feecodecamp, turns out I didn't need to read about prototypes as much as I did, but it will help in the future to be familiar. I learn some neat tricks on this algorithm though. Here's my solution:
+
+```
+<script>
+function chunkArrayInGroups(arr, size) {
+  var finalArray = [];
+  
+  for(var i = 0; i < arr.length/size; i++) {
+    finalArray.push(arr.slice(i * size, (i + 1) * size));
+  }
+  console.log(finalArray);
+}
+
+
+chunkArrayInGroups([0, 1, 2, 3, 4, 5, 6, 7, 8], 4);
+
+</script>
+```
+**Thoughts:** I'm intrigued with this algorithm, feeling neutral, a bit disappointed that I fogot that 0 times any number is 0 :sadface:
+
+**Link to tweet:** [Daniel Torres Day 13](https://twitter.com/RoosterMonster/status/953522163994181632)

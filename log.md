@@ -509,3 +509,72 @@ chunkArrayInGroups([0, 1, 2, 3, 4, 5, 6, 7, 8], 4);
 **Thoughts:** I'm intrigued with this algorithm, feeling neutral, a bit disappointed that I fogot that 0 times any number is 0 :sob:
 
 **Link to tweet:** [Daniel Torres Day 13](https://twitter.com/RoosterMonster/status/953522163994181632)
+
+
+<h2 align="center">Day 14: Wednesday January 17th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
+**Today's Progress:** I finished another algorithm today on FreeCodeCamp, and started/almost finsihed a 2nd algorithm. Here's my solution for the 1st algorithm:
+```
+<script>
+function slasher(arr, howMany) {
+  var finalArray = [];
+  
+  if(arr.length > howMany) {
+    finalArray = arr.slice(howMany, arr.length);
+  } else {
+    finalArray = arr.slice(arr.length, arr.length);
+  }
+  
+  console.log(finalArray);
+}
+
+slasher([1, 2, 3], 9);
+
+/*
+Instruction: chop arg1 from the index 0 to arg2 and return the remaining numbers if any
+1. Make a var finalArray = [];
+2. if arr.length > howMany do this: 
+3. slice arr1(howMany, arr.length) into finalArray
+4. else slice arr1(arr.length, arr.length) into finalArray
+*/
+</script>
+```
+Pretty stoked that I solved it:sunglasses:. I almost solved my 2nd algorithm, but I need more time to figure the missing last piece:confused:. Here's what I have so far:
+```
+<script>
+function mutation(arr) {
+  var temp, n, a;
+  
+  for(var i = 0; i < arr[1].length; i++) {
+    temp = arr[1].charAt(i);
+    n = arr[0].indexOf(temp);
+    
+    if(n !== -1) {
+      a = "true";
+    } else {
+      a = "false";
+    }
+    if(a == "false") {
+      a = "false";
+    }
+    console.log(a);
+    return;
+  }
+}
+
+mutation(["hello", "neo"]);
+
+/*
+1. Create a for loop that itterates through arr1[1] and does an indexOf check through arr1[0]
+2. if all the letters are found return true otherwise return false
+*/
+</scirpt>
+```
+I know tomorrow I will finsih this:sunglasses:.
+
+**Thoughts:** I'm feeling pretty good with my progress, especially with this commitment, so I must bask in this moment:sunglasses:.
+
+**Link to tweet:** [Daniel Torres Day 14](https://twitter.com/RoosterMonster/status/953901527617323008)
+

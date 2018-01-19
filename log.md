@@ -578,3 +578,41 @@ I know tomorrow I will finsih this:sunglasses:.
 
 **Link to tweet:** [Daniel Torres Day 14](https://twitter.com/RoosterMonster/status/953901527617323008)
 
+
+<h2 align="center">Day 15: Thursday January 18th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
+**Today's Progress:** The 2nd algorithm is doing something funny, I think I'm trying to rush it and making mistakes:worried:. Somehow managed to create some infinite loops that crashed my browser. I've been using codepen to practice my code before transfering it to FreeCodeCamp. Here's on of my mess ups:
+```
+<script>
+
+function mutation(arr) {
+  var temp, n,
+      a = true;
+  do {
+    for(var i = 0; i < arr[1].length; i++) {
+      temp = arr[1].charAt(i);
+      n = arr[0].indexOf(temp);
+      
+      if(n !== -1) {
+        a = true;
+      } else {
+        a = false;
+        return a;
+      }
+    }
+  }
+  while (a !== true);
+  return a;
+}
+
+mutation(["hello", "Hello"]);
+
+</script>
+```
+I keep thinking that I'm writing ugly code too.
+
+**Thoughts:** I'm a little bummed out that I didn't finish, but I know I'm close.
+
+**Link to tweet:** [Daniel Torres Day 15](https://twitter.com/RoosterMonster/status/954168162659966976)

@@ -616,3 +616,15 @@ I keep thinking that I'm writing ugly code too.
 **Thoughts:** I'm a little bummed out that I didn't finish, but I know I'm close.
 
 **Link to tweet:** [Daniel Torres Day 15](https://twitter.com/RoosterMonster/status/954168162659966976)
+
+
+<h2 align="center">Day 16: Friday January 19th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
+**Today's Progress:** I didn't finish the algorithm, but I am taking a step back and re-evaluating my blueprint on how to complete this challenge. Not going to show code here as it's not much.
+
+**Thoughts:** Today was a tough day, from begining to end, I'm unhappy that I didn't finish, but I am happy that I atleast coded for an hour, and keeping strong on this 100 day challenge.
+
+**Link to tweet:** [Daniel Torres Day 16](https://twitter.com/RoosterMonster/status/954597424827285504)
+

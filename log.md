@@ -628,3 +628,33 @@ I keep thinking that I'm writing ugly code too.
 
 **Link to tweet:** [Daniel Torres Day 16](https://twitter.com/RoosterMonster/status/954597424827285504)
 
+
+<h2 align="center">Day 17: Saturday January 20th, 2018</h2>
+
+**Link to Project:** [Chart.js](https://codepen.io/RoosterMonster/pen/LeqdoZ)
+
+**Today's Progress:** I took a pause from my algorithm to play with a Javascript library called Chart.js, I want to document my progress with a line graph to set up future goals, so I can stay on track in FreeCodeCamp. Here's my experimental code so far, needs more work, bur pretty neat.
+```
+<script>
+var ctx = document.getElementById('lineChart').getContext('2d');
+var chart = new Chart(ctx, {
+  type: 'line',
+  
+  data: {
+    labels: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, ],
+    datasets: [{
+      label: "My First Dataset",
+      backgroundColor: 'rgb(255, 99, 132)',
+      borderColor: 'rgb(255, 99, 132)',
+      data: [0, 0, 0, 1, 0, 0, 0, 1, 2, 0, 1, 1, 1, 0],
+    }]
+  },
+});
+</script>
+```
+
+**Thoughts:** Today was fun break to learn something new, something to add to my arsenal, since data is sucn a big deal now days.
+
+**Link to tweet:** [Daniel Torres Day 17](https://twitter.com/RoosterMonster/status/954950293870886912)
+
+

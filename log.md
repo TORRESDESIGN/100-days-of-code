@@ -658,3 +658,49 @@ var chart = new Chart(ctx, {
 **Link to tweet:** [Daniel Torres Day 17](https://twitter.com/RoosterMonster/status/954950293870886912)
 
 
+<h2 align="center">Day 18: Sunday January 21th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
+**Today's Progress:** I came back to my FreeCodeCamp algorithm problem(Mutations), retstarted it from scratch, and completed it. I keep thinking I must of completed my code unorthodox(ugly code), but I got the job done. Here's my solution:
+```
+<script>
+function mutation(arr) {
+  var argA = arr.slice(0, 1).toString().toLowerCase();
+  var argB = arr.slice(1, 2).toString().toLowerCase();
+  var verdict = true;
+  
+  for(var i = 0; i < argA.length; i ++) {
+    var temp = argB.charAt(i);
+    var num = argA.indexOf(temp);
+    
+    if(num !== -1) {
+      
+    } else {
+      verdict = false;
+      
+    }
+    
+  }//end of for loop
+  console.log(verdict);
+  
+  
+}
+
+mutation(["voodoo", "no"]);
+
+/*
+1. Convert both arr to lowerCase
+2. itterate arr[1] with a for loop
+3. Compare each of those letters to arr[0]
+4. If false returns, stop code and return false
+5  Otherwise return true
+*/
+</script>
+```
+I did something new with my if statement that I've never done before. I wonder if it's ok or bad practice.
+
+**Thoughts:** I'm happy:smiley: that I was able to craft some code together to get the job done. I do wonder if I'm writing terrible code though:grimacing:.
+
+**Link to tweet:** [Daniel Torres Day 18](https://twitter.com/RoosterMonster/status/955330638545997824)
+

@@ -709,7 +709,7 @@ I did something new with my if statement that I've never done before. I wonder i
 
 **Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
 
-**Today's Progress:** I started a new algorithm today, I'm pretty sure I know what to do, just so exhausted from the day:expressionless:/play crickets, but atleast I did sit down to code. Here's my code vomit:
+**Today's Progress:** I started a new algorithm today, I'm pretty sure I know what to do, just so exhausted from the day:expressionless:, but atleast I did sit down to code. Here's my code vomit:
 ```
 <script>
 var falsey = [false, null, undefined, 0, NaN, '', ""];

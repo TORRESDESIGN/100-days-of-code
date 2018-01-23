@@ -704,3 +704,44 @@ I did something new with my if statement that I've never done before. I wonder i
 
 **Link to tweet:** [Daniel Torres Day 18](https://twitter.com/RoosterMonster/status/955330638545997824)
 
+
+<h2 align="center">Day 19: Monday January 22th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
+**Today's Progress:** I started a new algorithm today, I'm pretty sure I know what to do, just so exhausted from the day, but atleast I did sit down to code. Here's my code vomit:
+```
+<script>
+var falsey = [false, null, undefined, 0, NaN, '', ""];
+var finalArray = [];
+
+
+function bouncer(arr) {
+ for(var i = 0; i < falsey.length; i++) {
+    for(var j = 0; j < falsey[i].length; j++) {
+      if(arr[i] !== falsey[j]) {
+        finalArray.push(slice(i + (i + 1)));
+      }
+    }   
+  }
+  console.log(finalArray)
+}
+
+bouncer([7, "ate", "", false, 9]);
+
+/*
+Falsy values in JavaScript are false, null, 0, "", undefined, and NaN.
+1. Iterate through the array.
+2. If the aray is identical to falsey elements(null, undefined, ' ", etc), then remove those falsey from the array
+3. Return the array with all the falsey's removed
+
+poss. toos: Map, Array filter, booleans
+*/
+
+</scirpt>
+```
+I'm sure I'll finish this tomorrow, once I get more sleep in me.
+
+**Thoughts:** Today was a long day, and not happy that I can't code well when I'm exhausted, but oh well.
+
+**Link to tweet:** [Daniel Torres Day 19](https://twitter.com/RoosterMonster/status/955719453748051968)

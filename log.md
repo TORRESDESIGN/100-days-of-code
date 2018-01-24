@@ -745,3 +745,57 @@ I'm sure I'll finish this tomorrow, once I get more sleep in me.
 **Thoughts:** Today was a long day, and not happy that I can't code well when I'm exhausted, but oh well.
 
 **Link to tweet:** [Daniel Torres Day 19](https://twitter.com/RoosterMonster/status/955719453748051968)
+
+
+<h2 align="center">Day 20: Tuesday January 23rd, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
+**Today's Progress:** I finished an algorithm on FreeCodeCamp, had my ups and downs, and curiousity tangents on ES6 tricks that didn't make sense to me, but didn't matter for now. Here's my solution:
+```
+<script>
+// falsey = [false, null, undefined, 0, NaN, '', ""];
+var finalArray = [];
+
+
+function bouncer(arr) {
+  finalArray = arr.filter(function (val) {
+    return val;
+  });
+  console.log(finalArray);
+}
+
+bouncer([false, null, 0, NaN, undefined, ""]);
+
+/*
+Falsy values in JavaScript are false, null, 0, "", undefined, and NaN.
+1. Iterate through the array.
+2. If the aray is identical to falsey elements(null, undefined, ' ", etc), then remove those falsey from the array
+3. Return the array with all the falsey's removed
+
+poss. toos: Map, Array filter, booleans
+*/
+</script>
+```
+I started a new algorithm too, should finsih that soon from what I can tell. Here's my blueprint:
+```
+<script>
+function destroyer(arr) {
+  // Remove all the values
+  return arr;
+}
+
+destroyer([1, 2, 3, 1, 2, 3], 2, 3);
+
+/*
+Filter out numbers of the 2nd Arg if present in the 1st Arg*
+1. make a var argA = arr[0]
+2. make a var argB = arr[1]
+3. make a var finalArray
+4. filter out argA if it equals argB and return the remains
+*/
+</script>
+```
+**Thoughts:** Today a good day ultimately, but I had some confusion come my way that led to tangents, but all good learning experience.
+
+**Link to tweet:** [Daniel Torres Day 20](https://twitter.com/RoosterMonster/status/956073285984440320)

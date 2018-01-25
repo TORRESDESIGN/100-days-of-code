@@ -796,6 +796,17 @@ Filter out numbers of the 2nd Arg if present in the 1st Arg*
 */
 </script>
 ```
-**Thoughts:** Today a good day ultimately, but I had some confusion come my way that led to tangents, but all good learning experience.
+**Thoughts:** Today was a good day ultimately, but I had some confusion come my way that led to tangents, but all good learning experience.
 
 **Link to tweet:** [Daniel Torres Day 20](https://twitter.com/RoosterMonster/status/956073285984440320)
+
+
+<h2 align="center">Day 21: Wednesday January 24th, 2018</h2>
+
+**Link to Project:** [Chart.JS](https://codepen.io/RoosterMonster/pen/LeqdoZ?editors=1010)
+
+**Today's Progress:** I took a pause today from FreeCodeCamp, to do some other coding related things. I did a little bit of game development, and messed with Chart.JS again. I linked my graph WIP in the link above.
+
+**Thoughts:** Today was a bit frustrating:disappointed: with chart.js. Hitting the FreeCodeCamp train again tomorrow.
+
+**Link to tweet:** [Daniel Torres Day 21](https://twitter.com/RoosterMonster/status/956458163397513217)

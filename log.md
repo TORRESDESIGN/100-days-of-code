@@ -810,3 +810,40 @@ Filter out numbers of the 2nd Arg if present in the 1st Arg*
 **Thoughts:** Today was a bit frustrating:disappointed: with chart.js. Hitting the FreeCodeCamp train again tomorrow.
 
 **Link to tweet:** [Daniel Torres Day 21](https://twitter.com/RoosterMonster/status/956458163397513217)
+
+
+<h2 align="center">Day 22: Thursday January 25th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
+**Today's Progress:** I return to work on my FCC algorithm problem, ran into a problem of there being more arguments than parameters which I've never came across dealing with. I turned to my trusty Javascript book - The definitive guide, and was enlightened about this issue. Tomorros I shall finish the code. This is what I have so far:
+```
+<script>
+var finalArray = [];
+var argA; // = [1, 2, 3, 1, 2, 3]
+var argB = [];
+
+function destroyer(arr, brr, crr) { 
+  var argA = arr;
+  argB.push(brr, crr);
+  
+  finalArray = argA.filter(function(val) {
+    return val !== argB[0] && val !== argB[1];
+  })
+  console.log(finalArray);
+}
+
+destroyer([3, 5, 1, 2, 2], 2, 3, 5);
+
+/*
+Filter out numbers of the 2nd Arg if present in the 1st Arg*
+1. make a var argA = arr[0]
+2. make a var argB = arr[1] & arr[2]
+3. make a var finalArray
+4. filter out argA if it equals argB and return the remains
+*/
+</script>
+```
+**Thoughts:** Today was great, even though I didn't finish my code. I did learn about uneven function parametes vs arguments, which will be a valuable arrow in my quiver(lol):star-struck:.
+
+**Link to tweet:** [Daniel Torres Day 22](https://twitter.com/RoosterMonster/status/956779340674433024)

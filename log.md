@@ -816,7 +816,7 @@ Filter out numbers of the 2nd Arg if present in the 1st Arg*
 
 **Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
 
-**Today's Progress:** I return to work on my FCC algorithm problem, ran into a problem of there being more arguments than parameters which I've never came across dealing with. I turned to my trusty Javascript book - The definitive guide, and was enlightened about this issue. Tomorros I shall finish the code. This is what I have so far:
+**Today's Progress:** I returned to work on my FCC algorithm, ran into a problem of there being more arguments than parameters which I've never came across to dealing with. I turned to my trusty Javascript book - The definitive guide, and was enlightened about this issue. Tomorros I shall finish the code. This is what I have so far:
 ```
 <script>
 var finalArray = [];

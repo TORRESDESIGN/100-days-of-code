@@ -844,6 +844,6 @@ Filter out numbers of the 2nd Arg if present in the 1st Arg*
 */
 </script>
 ```
-**Thoughts:** Today was great, even though I didn't finish my code. I did learn about uneven function parametes vs arguments, which will be a valuable arrow in my quiver(lol):star-struck:.
+**Thoughts:** Today was great, even though I didn't finish my code. I did learn about uneven function parametes vs arguments, which will be a valuable arrow in my quiver(lol):satisfied:.
 
 **Link to tweet:** [Daniel Torres Day 22](https://twitter.com/RoosterMonster/status/956779340674433024)

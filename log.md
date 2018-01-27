@@ -847,3 +847,44 @@ Filter out numbers of the 2nd Arg if present in the 1st Arg*
 **Thoughts:** Today was great, even though I didn't finish my code. I did learn about uneven function parametes vs arguments, which will be a valuable arrow in my quiver(lol):satisfied:.
 
 **Link to tweet:** [Daniel Torres Day 22](https://twitter.com/RoosterMonster/status/956779340674433024)
+
+
+<h2 align="center">Day 23: Friday January 26th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
+**Today's Progress:** I continued to work on my FCC algorithm, I'm so close to finishing my the algorithm. I must stop since I have to go to bed so I'm not a zombie at work tomorrow, but I'm so close! Here's what I have so far:
+```
+<script>
+var finalArray = [];
+var argA; // = [1, 2, 3, 1, 2, 3]
+var argB = [];
+
+function destroyer(a, b, c, /*optional*/d) { 
+  var argA = a;
+  if(arguments.length <= 3) {
+    argB.push(b, c);
+  } else {
+    argB.push(b, c, d);
+  }
+  
+  finalArray = argA.filter(function(val) {
+    return val !== argB[0] && val !== argB[1] && val !== argB[2];
+  });
+  console.log(argB);
+}
+
+destroyer([1, 2, 3, 1, 2, 3], 2, 3);
+
+/*
+Filter out numbers of the 2nd Arg if present in the 1st Arg*
+1. make a var argA = arr[0]
+2. make a var argB = arr[1] & arr[2]
+3. make a var finalArray
+4. filter out argA if it equals argB and return the remains
+*/
+</script>
+```
+**Thoughts:** Today was good, would of been better if I would of finished my code. Exhaustion is getting the best of me.
+
+**Link to tweet:** [Daniel Torres Day 23](https://twitter.com/RoosterMonster/status/957127803052244992)

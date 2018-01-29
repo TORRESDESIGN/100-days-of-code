@@ -929,3 +929,36 @@ Filter out numbers of the 2nd Arg if present in the 1st Arg*
 **Thoughts:** Today was good day, I was tired as hell, reading the good book(JS book) trying to figure out my challenge. Happy that I coded and completed my problem.
 
 **Link to tweet:** [Daniel Torres Day 24](https://twitter.com/RoosterMonster/status/957478155022774272)
+
+
+<h2 align="center">Day 25: Sunday January 28th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
+**Today's Progress:** I started a new FCC algorithm today, and thought I finished until I realized that it did not want repeated numbers in the process of wanting the index number coming from the 2nd argument. FCC didn't say this in the explanation, but I think that was on purpose to keep me on my toes. Here's what I have so far:
+```
+<script>
+function getIndexToIns(arr, num) {
+  var index;
+  var wholeArray = arr;
+  wholeArray.push(num);
+  wholeArray.sort();
+  index = wholeArray.indexOf(num);
+  
+  console.log(index);
+}
+
+getIndexToIns([3, 10, 5], 3);
+
+/*
+Return the index number of the 2nd argument once it is inserted in the 1st argument and sorted in order.
+1. create an empty var index
+2. create a var wholeArray = []
+3. push arr & num into wholeArray and sorted in order
+4. return index of num from wholeArray
+*/
+</script>
+```
+**Thoughts:** Today was a good day, I finally realized that FCC is not fully explaining everything in the directions to keep me on my toes. Which makes sense, I will probably come across this in the real world.
+
+**Link to tweet:** [Daniel Torres Day 25](https://twitter.com/RoosterMonster/status/957847911584342016)

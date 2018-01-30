@@ -962,3 +962,65 @@ Return the index number of the 2nd argument once it is inserted in the 1st argum
 **Thoughts:** Today was a good day, I finally realized that FCC is not fully explaining everything in the directions to keep me on my toes. Which makes sense, I will probably come across this in the real world.
 
 **Link to tweet:** [Daniel Torres Day 25](https://twitter.com/RoosterMonster/status/957847911584342016)
+
+
+<h2 align="center">Day 26: Monday January 29th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
+**Today's Progress:** I finshed my FCC algorithm today with some ease. This was my solution:
+```
+<script>
+function getIndexToIns(arr, num) {
+  var index;
+  var wholeArray = arr.filter(function(x) {
+    return x !== num;
+  });
+  wholeArray.push(num);
+  wholeArray.sort(function(a, b) {
+    return a - b;
+  });
+  index = wholeArray.indexOf(num);
+  
+  console.log(index);
+}
+
+getIndexToIns([2, 5, 10], 15);
+
+/*
+Return the index number of the 2nd argument once it is inserted in the 1st argument and sorted in order.
+1. create an empty var index
+2. create a var wholeArray = []
+3. push arr & num into wholeArray and sorted in order
+4. return index of num from wholeArray
+*/
+</script>
+```
+I started on a new algorithm, last one in my section before it moves on to new challenges. I'm suppose to create a cipher decoder. This is my blueprint so far:
+```
+<script>
+
+function rot13(str) { // LBH QVQ VG!
+  
+  return str;
+}
+
+
+rot13("SERR PBQR PNZC");
+
+/*
+Create a Cipher decoder based on ROT13(A=N, B=O) (+ 13)
+1. Create a var finalString
+2. Create a for loop that itterates the str returning the unicode of each letter
+3. Add 13 to each unicode and then return that unicode back to the new character
+4. Push the new translation into finalString
+
+Tools: charCodeAt(), fromCharCode(), slice()
+*/
+
+
+</script>
+```
+**Thoughts:** Today was a good day, it was a long tiring day, but I didn't flake.
+
+**Link to tweet:** [Daniel Torres Day 26](https://twitter.com/RoosterMonster/status/958237069096071168)

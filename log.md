@@ -1024,3 +1024,47 @@ Tools: charCodeAt(), fromCharCode(), slice()
 **Thoughts:** Today was a good day, it was a long tiring day, but I didn't flake.
 
 **Link to tweet:** [Daniel Torres Day 26](https://twitter.com/RoosterMonster/status/958237069096071168)
+
+
+<h2 align="center">Day 27: Tuesday January 30th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
+**Today's Progress:** I finshed another FCC algorithm today:satisfied:. It was a pretty neat challenge, building a Caesars Cipher. This was my solution:
+```
+<script>
+var finalString = [];
+
+function rot13(str) { // LBH QVQ VG!
+  for(var i =0; i < str.length; i++) {
+    var letterUnicode = str.charCodeAt(i);
+    
+    if(letterUnicode >= 78) {
+      finalString.push(String.fromCharCode(letterUnicode - 13));
+    } else if (letterUnicode >=65 && letterUnicode <= 77) {
+      finalString.push(String.fromCharCode(letterUnicode + 13));
+    } else {
+      finalString.push(String.fromCharCode(letterUnicode));
+    }
+  }
+  console.log(finalString.join(""));
+}
+
+// Change the inputs below to test
+rot13("GUR DHVPX OEBJA QBT WHZCRQ BIRE GUR YNML SBK.");
+
+/*
+Create a Cipher decoder based on ROT13(A=N, B=O) (+ 13)
+1. Create a var finalString
+2. Create a for loop that itterates the str returning the unicode of each letter
+3. Add 13 to each unicode and then return that unicode back to the new character
+4. Push the new translation into finalString
+
+Tools: charCodeAt(), fromCharCode(), slice()
+Unicode of Cap letters = 65--90
+*/
+</script>
+```
+**Thoughts:** Today was a great day:satisfied:, I found out I'm having twin boys:satisfied::satisfied:, finsihed my last algorithm in my current section. Making a goal to do 200 hrs of FCC in 3 months:sweat_smile:; by 5/30/18. Hopefully find a web dev job during that time too. Also going to try to dive deep into css as well.
+
+**Link to tweet:** [Daniel Torres Day 27](https://twitter.com/RoosterMonster/status/958624514190974976)

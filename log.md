@@ -1068,3 +1068,14 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was a great day:satisfied:, I found out I'm having twin boys:satisfied::satisfied:, finsihed my last algorithm in my current section. Making a goal to do 200 hrs of FCC in 3 months:sweat_smile:; by 5/30/18. Hopefully find a web dev job during that time too. Also going to try to dive deep into css as well.
 
 **Link to tweet:** [Daniel Torres Day 27](https://twitter.com/RoosterMonster/status/958624514190974976)
+
+
+<h2 align="center">Day 28: Wednesday January 31th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [PureCSS](https://codepen.io/RoosterMonster/pen/oEXbjW?editors=0100)
+
+**Today's Progress:** I worked on my Random Quote Machine project, doing research and planning out the design. I also worked on some pure CSS illustration to strengthen my CSS game. Learned alot. Provided a link to my 1st CSS art piece above.
+
+**Thoughts:** Today was an ok day, a lot of researching and not much coding with my new project, but I do want it took look nice rather than a terrible design. The pure CSS stuff was pretty fun and I can't wait to be able to do more complex things with it.
+
+**Link to tweet:** [Daniel Torres Day 28](https://twitter.com/RoosterMonster/status/959002464790851585)

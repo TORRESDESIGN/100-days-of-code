@@ -1090,3 +1090,14 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was a good day, CSS feels more comfortable than ever, not that I've made art with it. I kept battling myself with pure CSS and bootstrap. I'm starting to fall in love with pure CSS.
 
 **Link to tweet:** [Daniel Torres Day 29](https://twitter.com/RoosterMonster/status/959298530065068032)
+
+
+<h2 align="center">Day 30: Friday February 2nd, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/gvabLe?editors=1100)
+
+**Today's Progress:** I continued to work on my Random Quote Machine project, struggled with woking with JSON links working in codepen, but figured out the limitations of why it wasn't working. I ended up finding an API that will work, and a damn good funny one; Ron Swonson quote machine coming up. I may try to find a Ron image API as well to complement my project.
+
+**Thoughts:** Today was an ok day, lots of struggling and reading about JSON, AJAX, and API's. I did end up getting an API to work, and may be close to finishing my project.
+
+**Link to tweet:** [Daniel Torres Day 30](https://twitter.com/RoosterMonster/status/959656242821054464)

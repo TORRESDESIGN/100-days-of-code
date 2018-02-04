@@ -1101,3 +1101,14 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was an ok day, lots of struggling and reading about JSON, AJAX, and API's. I did end up getting an API to work, and may be close to finishing my project.
 
 **Link to tweet:** [Daniel Torres Day 30](https://twitter.com/RoosterMonster/status/959656242821054464)
+
+
+<h2 align="center">Day 31: Saturday February 3rd, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/gvabLe?editors=1100)
+
+**Today's Progress:** I continued to work on my Random Quote Machine project, I ran into some more issues and still don't quite understand it fully so I read up on it and did some examples, I'm going to need to continue to practice more so I fully understand. I also worked on some CSS practice.
+
+**Thoughts:** Today was tough, exhaustion got the best of me and confusion blocked my understanding.
+
+**Link to tweet:** [Daniel Torres Day 31](https://twitter.com/RoosterMonster/status/960095385602613248)

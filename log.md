@@ -1112,3 +1112,14 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was tough, exhaustion got the best of me and confusion blocked my understanding.
 
 **Link to tweet:** [Daniel Torres Day 31](https://twitter.com/RoosterMonster/status/960095385602613248)
+
+
+<h2 align="center">Day 32: Sunday February 4th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/JpXwYV?editors=0110)
+
+**Today's Progress:** Today I took time to create images with pure CSS, learned SCSS & PUG, which is pretty sweet. Created sketch logo for practice. Link above.
+
+**Thoughts:** Today was pretty sweet, learned some new tools that will help with CSS game.
+
+**Link to tweet:** [Daniel Torres Day 32](https://twitter.com/RoosterMonster/status/960393301999288320)

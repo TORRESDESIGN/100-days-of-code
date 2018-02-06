@@ -1123,3 +1123,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was pretty sweet, learned some new tools that will help with CSS game.
 
 **Link to tweet:** [Daniel Torres Day 32](https://twitter.com/RoosterMonster/status/960393301999288320)
+
+
+<h2 align="center">Day 33: Monday February 5th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/MQexqp?editors=1100)
+
+**Today's Progress:** Today I took time to create more images with pure CSS, learned Vue.JS and to animate, which is awesome to mess with. Link above.
+
+**Thoughts:** Today was fun, learned some new tools that will help with CSS and javascript game.
+
+**Link to tweet:** [Daniel Torres Day 33](https://twitter.com/RoosterMonster/status/960798629953851392)
+

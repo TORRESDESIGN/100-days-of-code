@@ -1135,3 +1135,14 @@ Unicode of Cap letters = 65--90
 
 **Link to tweet:** [Daniel Torres Day 33](https://twitter.com/RoosterMonster/status/960798629953851392)
 
+
+
+h2 align="center">Day 34: Tuesday February 6th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/oEzmbX)
+
+**Today's Progress:** I returned to my FCC project; Random Quote Machine. I got it to work/look how I wanted it, except for the tweet button. I need to figure how to tweet these quotes. Link is above.
+
+**Thoughts:** Today was good, got more comfortable with AJAX and API's. This tweet button is going to a gooe challenge, looking forward to to it.
+
+**Link to tweet:** [Daniel Torres Day 34](https://twitter.com/RoosterMonster/status/961177811787513858)

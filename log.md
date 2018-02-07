@@ -1137,7 +1137,7 @@ Unicode of Cap letters = 65--90
 
 
 
-h2 align="center">Day 34: Tuesday February 6th, 2018</h2>
+<h2 align="center">Day 34: Tuesday February 6th, 2018</h2>
 
 **Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/oEzmbX)
 

@@ -1146,3 +1146,16 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was good, got more comfortable with AJAX and API's. This tweet button is going to a gooe challenge, looking forward to to it.
 
 **Link to tweet:** [Daniel Torres Day 34](https://twitter.com/RoosterMonster/status/961177811787513858)
+
+
+
+<h2 align="center">Day 35: Wednesday February 7th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/oEzmbX?editors=1010)
+
+**Today's Progress:** I finished my FCC project; Random Quote Machine. I got the tweet function to work and even added a bit of animation to the piece. link to project is above.
+
+**Thoughts:** Today was sweet, I understand the Twitter API's a bit more, and it feels impowering to be able to use it with my creation.
+
+**Link to tweet:** [Daniel Torres Day 35](https://twitter.com/RoosterMonster/status/961550396396224512)
+

@@ -1159,3 +1159,14 @@ Unicode of Cap letters = 65--90
 
 **Link to tweet:** [Daniel Torres Day 35](https://twitter.com/RoosterMonster/status/961550396396224512)
 
+
+
+<h2 align="center">Day 36: Thursday February 8th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/bLgmaR)
+
+**Today's Progress:** Today I worked on my FCC weather app, did a lot of research, planning and designing. No code written persay today. Was mostly in Figma designing the look. I want to create beautiful apps not just functional.
+
+**Thoughts:** Today was good, did some design and research. I can't wait to start coding it.
+
+**Link to tweet:** [Daniel Torres Day 36](https://twitter.com/RoosterMonster/status/961823358454149121)

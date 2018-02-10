@@ -1170,3 +1170,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was good, did some design and research. I can't wait to start coding it.
 
 **Link to tweet:** [Daniel Torres Day 36](https://twitter.com/RoosterMonster/status/961823358454149121)
+
+
+
+<h2 align="center">Day 37: Friday February 9th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/bLgmaR)
+
+**Today's Progress:** Today I worked on my FCC weather app, continued on working on the design. I want to do more designs, but will settle for what I have design for now and focus on the code.
+
+**Thoughts:** Today was ok, woked on design, want to do more, but don't want to lose focus on the main challenge; the code.
+
+**Link to tweet:** [Daniel Torres Day 37](https://twitter.com/RoosterMonster/status/962231317097103360)

@@ -1192,4 +1192,5 @@ Unicode of Cap letters = 65--90
 **Today's Progress:** Today I continued to worked on my FCC weather app, worked on the design again. I simplified the design and added more color. Now I must code it.
 
 **Thoughts:** Today was ok, revised the design. I need to code it, that will make me happy.
+
 **Link to tweet:** [Daniel Torres Day 38](https://twitter.com/RoosterMonster/status/962578469140905984)

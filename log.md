@@ -1194,3 +1194,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was ok, revised the design. I need to code it, that will make me happy.
 
 **Link to tweet:** [Daniel Torres Day 38](https://twitter.com/RoosterMonster/status/962578469140905984)
+
+
+
+<h2 align="center">Day 39: Sunday February 11th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/bLgmaR)
+
+**Today's Progress:** Today I continued to work on my FCC weather app, worked on building it with html and css. Try to add  some subtle animations, and struggling  a bit.
+
+**Thoughts:** Today was rough, I struggled with animating some background stuff.
+
+**Link to tweet:** [Daniel Torres Day 39](https://twitter.com/RoosterMonster/status/962921903013769217)

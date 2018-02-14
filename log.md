@@ -1211,10 +1211,22 @@ Unicode of Cap letters = 65--90
 
 <h2 align="center">Day 40: Monday February 12th, 2018</h2>
 
-**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/bLgmaR)
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/bLgmaR?editors=1100)
 
 **Today's Progress:** Today I continued to work on my FCC weather app, worked on the html and css. Figured out the subtle background animation. Getting closer to completion.
 
 **Thoughts:** Today was good, I figured out the animation background challenge I was facing.
 
 **Link to tweet:** [Daniel Torres Day 40](https://twitter.com/RoosterMonster/status/963336162906554368)
+
+
+
+<h2 align="center">Day 41: Tuesday February 13th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/bLgmaR?editors=1100)
+
+**Today's Progress:** Today I continued to work on my FCC weather app, worked on the html and css. I had to choose another icon API, but it's slowly coming along. 
+
+**Thoughts:** Today was ok, I ran into some subtle detail issues that took a lot of time, but I figured it out.
+
+**Link to tweet:** [Daniel Torres Day 41](https://twitter.com/RoosterMonster/status/963709446055538688)

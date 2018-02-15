@@ -1240,5 +1240,5 @@ Unicode of Cap letters = 65--90
 
 **Thoughts:** Today was good, I used HTML PUG and SCSS to do some pure CSS art.
 
-**Link to tweet:** [Daniel Torres Day 42]( insert tweet here )
+**Link to tweet:** [Daniel Torres Day 42]( https://twitter.com/RoosterMonster/status/963962556233662464 )
 

@@ -1230,3 +1230,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was ok, I ran into some subtle detail issues that took a lot of time, but I figured it out.
 
 **Link to tweet:** [Daniel Torres Day 41](https://twitter.com/RoosterMonster/status/963709446055538688)
+
+
+<h2 align="center">Day 42: Wednesday February 14th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/PQJJeX?editors=1100)
+
+**Today's Progress:** Today I some CSS excercise, to strengthen my CSS game, made some pure CSS art. 
+
+**Thoughts:** Today was good, I used HTML PUG and SCSS to do some pure CSS art.
+
+**Link to tweet:** [Daniel Torres Day 42]( insert tweet here )
+

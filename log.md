@@ -1236,9 +1236,21 @@ Unicode of Cap letters = 65--90
 
 **Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/PQJJeX?editors=1100)
 
-**Today's Progress:** Today I some CSS excercise, to strengthen my CSS game, made some pure CSS art. 
+**Today's Progress:** Today I did some CSS excercise, to strengthen my CSS game, made some pure CSS art. 
 
 **Thoughts:** Today was good, I used HTML PUG and SCSS to do some pure CSS art.
 
 **Link to tweet:** [Daniel Torres Day 42]( https://twitter.com/RoosterMonster/status/963962556233662464 )
+
+
+
+<h2 align="center">Day 43: Thursday February 15th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/PQJJeX?editors=1100)
+
+**Today's Progress:** Today I did some more CSS excercise, to strengthen my CSS game, finished a CSS art. 
+
+**Thoughts:** Today was ok, I used HTML PUG and SCSS to do some pure CSS art.
+
+**Link to tweet:** [Daniel Torres Day 43]( https://twitter.com/RoosterMonster/status/964472387302408193 )
 

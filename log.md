@@ -1255,6 +1255,7 @@ Unicode of Cap letters = 65--90
 **Link to tweet:** [Daniel Torres Day 43]( https://twitter.com/RoosterMonster/status/964472387302408193 )
 
 
+
 <h2 align="center">Day 44: Friday February 16th, 2018</h2>
 
 **Link to Project:** [CodePen](https://codepen.io/RoosterMonster/pen/NyXxqR?editors=1100)
@@ -1264,4 +1265,16 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was good, I used HTML PUG and SCSS to create and finish some pure CSS art.
 
 **Link to tweet:** [Daniel Torres Day 44]( https://twitter.com/RoosterMonster/status/964694966919315456 )
+
+
+
+<h2 align="center">Day 45: Saturday February 17th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/bLgmaR?editors=1100)
+
+**Today's Progress:** Today I returned to my weather app, fixed some minor things and set up some placeholder text for data.
+
+**Thoughts:** Today was ok, I am pretty tired from day job, but glad I got some progress made.
+
+**Link to tweet:** [Daniel Torres Day 45]( https://twitter.com/RoosterMonster/status/965109637077876737 )
 

@@ -1278,3 +1278,13 @@ Unicode of Cap letters = 65--90
 
 **Link to tweet:** [Daniel Torres Day 45]( https://twitter.com/RoosterMonster/status/965109637077876737 )
 
+
+<h2 align="center">Day 46: Sunday February 18th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/bLgmaR?editors=1100)
+
+**Today's Progress:** Today I continue to work on my weather app, finished my get current date function and started researching reverse geocoding.
+
+**Thoughts:** Today was ok, I was happy to figure out how to  get the current date and display it how I want it.
+
+**Link to tweet:** [Daniel Torres Day 46]( https://twitter.com/RoosterMonster/status/965464132165156864 )

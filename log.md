@@ -1288,3 +1288,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was ok, I was happy to figure out how to  get the current date and display it how I want it.
 
 **Link to tweet:** [Daniel Torres Day 46]( https://twitter.com/RoosterMonster/status/965464132165156864 )
+
+
+
+<h2 align="center">Day 47: Monday February 19th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/bLgmaR?editors=1100)
+
+**Today's Progress:** Today I continue to work on my weather app, There was some positives to the night, but more negatives. Struggling with reverse geocoding.
+
+**Thoughts:** Today was ok, had a bried moment of celebration but was brought back down to earth when the code didn't work.
+
+**Link to tweet:** [Daniel Torres Day 47]( https://twitter.com/RoosterMonster/status/965855646749900800 )

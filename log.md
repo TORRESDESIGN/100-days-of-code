@@ -1300,3 +1300,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was ok, had a bried moment of celebration but was brought back down to earth when the code didn't work.
 
 **Link to tweet:** [Daniel Torres Day 47]( https://twitter.com/RoosterMonster/status/965855646749900800 )
+
+
+
+<h2 align="center">Day 48: Tuesday February 20th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/bLgmaR?editors=1100)
+
+**Today's Progress:** Today I continue to work on my weather app and worked on some CSS art, read upon the Google API's and started on a Wacom Pen for my Wacom tablet art.
+
+**Thoughts:** Today was ok, Did not get any closer to understanding the API's, but didn't really spend that much time on it.
+
+**Link to tweet:** [Daniel Torres Day 48]( https://twitter.com/RoosterMonster/status/966242916141166592 )

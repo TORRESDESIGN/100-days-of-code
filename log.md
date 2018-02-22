@@ -1312,3 +1312,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was ok, Did not get any closer to understanding the API's, but didn't really spend that much time on it.
 
 **Link to tweet:** [Daniel Torres Day 48]( https://twitter.com/RoosterMonster/status/966242916141166592 )
+
+
+
+<h2 align="center">Day 49: Wednesday February 21th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/NyXxqR?editors=0100)
+
+**Today's Progress:** Today I just work on CSS art.
+
+**Thoughts:** Today was ok, didn't have that much time at the computer, but still sat down to code CSS art.
+
+**Link to tweet:** [Daniel Torres Day 49]( https://twitter.com/RoosterMonster/status/966635827609522176 )

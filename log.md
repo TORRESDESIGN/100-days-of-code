@@ -1336,3 +1336,16 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was good, I'm starting memorize css methods.
 
 **Link to tweet:** [Daniel Torres Day 50]( https://twitter.com/RoosterMonster/status/966837738023501825 )
+
+
+
+<h2 align="center">Day 51: Friday February 23th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/XZPXMr?editors=1100)
+
+**Today's Progress:** Today I learned about CSS variables.
+
+**Thoughts:** Today was good, I'm starting learn CSS variables.
+
+**Link to tweet:** [Daniel Torres Day 51]( https://twitter.com/RoosterMonster/status/967271401391403008 )
+

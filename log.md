@@ -1349,3 +1349,14 @@ Unicode of Cap letters = 65--90
 
 **Link to tweet:** [Daniel Torres Day 51]( https://twitter.com/RoosterMonster/status/967271401391403008 )
 
+
+
+<h2 align="center">Day 52: Saturday February 24th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/XZPXMr?editors=1100)
+
+**Today's Progress:** Today I coninued learning about CSS variables.
+
+**Thoughts:** Today was good, I'm starting solidify CSS variable knowledge.
+
+**Link to tweet:** [Daniel Torres Day 52]( https://twitter.com/RoosterMonster/status/967666574957076481 )

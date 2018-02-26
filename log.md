@@ -1360,3 +1360,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was good, I'm starting solidify CSS variable knowledge.
 
 **Link to tweet:** [Daniel Torres Day 52]( https://twitter.com/RoosterMonster/status/967666574957076481 )
+
+
+
+<h2 align="center">Day 53: Sunday February 25th, 2018</h2>
+
+**Link to Project:** [CodePen](https://codepen.io/RoosterMonster/pen/WMaprd?editors=1100)
+
+**Today's Progress:** Today I coninued learning about CSS variables and also CSS grids.
+
+**Thoughts:** Today was ok, I'm starting to learn CSS grid.
+
+**Link to tweet:** [Daniel Torres Day 53]( https://twitter.com/RoosterMonster/status/968024060260069376 )

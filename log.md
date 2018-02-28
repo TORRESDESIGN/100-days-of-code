@@ -1384,3 +1384,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was ok, I'm getting deep into CSS grids.
 
 **Link to tweet:** [Daniel Torres Day 54]( https://twitter.com/RoosterMonster/status/968397368423981056 )
+
+
+
+<h2 align="center">Day 55: Tuesday February 27th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/bLgmaR?editors=0011)
+
+**Today's Progress:** I return to work on my weather app, and made some progress, I was able to translate the coordinates to current city location, I just need to remove the quotes and clean it up.
+
+**Thoughts:** Today was good, after a couple days away from this project. Everything came back to me and I feel good about it, I shall make good progress tomorrow.
+
+**Link to tweet:** [Daniel Torres Day 55]( https://twitter.com/RoosterMonster/status/968800088737722369 )

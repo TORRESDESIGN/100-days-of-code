@@ -1396,3 +1396,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was good, after a couple days away from this project. Everything came back to me and I feel good about it, I shall make good progress tomorrow.
 
 **Link to tweet:** [Daniel Torres Day 55]( https://twitter.com/RoosterMonster/status/968800088737722369 )
+
+
+
+<h2 align="center">Day 56: Wednesday February 28th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/bLgmaR?editors=0011)
+
+**Today's Progress:** I continued to work on my weather app, my location issue was fixed, and now I need to tackle the weather icon and temp.
+
+**Thoughts:** Today was good, I found out the hard way that I wasn't using stringify correct.
+
+**Link to tweet:** [Daniel Torres Day 56]( https://twitter.com/RoosterMonster/status/969083554222108673 )

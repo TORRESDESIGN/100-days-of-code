@@ -1408,3 +1408,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was good, I found out the hard way that I wasn't using stringify correct.
 
 **Link to tweet:** [Daniel Torres Day 56]( https://twitter.com/RoosterMonster/status/969083554222108673 )
+
+
+
+<h2 align="center">Day 57: Thursday February 29th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/bLgmaR?editors=0011)
+
+**Today's Progress:** I continued to work on my weather app, trying to figure out how to use mutliple API's.
+
+**Thoughts:** Today was not very good, I'm struggling to figure out how to use multiple API's.
+
+**Link to tweet:** [Daniel Torres Day 57]( https://twitter.com/RoosterMonster/status/969464833165766657 )

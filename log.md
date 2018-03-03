@@ -1411,7 +1411,7 @@ Unicode of Cap letters = 65--90
 
 
 
-<h2 align="center">Day 57: Thursday February 29th, 2018</h2>
+<h2 align="center">Day 57: Thursday March 1st, 2018</h2>
 
 **Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/bLgmaR?editors=0011)
 
@@ -1420,3 +1420,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was not very good, I'm struggling to figure out how to use multiple API's.
 
 **Link to tweet:** [Daniel Torres Day 57]( https://twitter.com/RoosterMonster/status/969464833165766657 )
+
+
+
+<h2 align="center">Day 58: Friday March 2nd, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/bLgmaR?editors=0011)
+
+**Today's Progress:** I continued to struggle on my weather app, trying to clean up my code and figure out how to use mutliple API's still.
+
+**Thoughts:** Today was another struggle, but learning from it.
+
+**Link to tweet:** [Daniel Torres Day 58]( https://twitter.com/RoosterMonster/status/969839757567111168 )

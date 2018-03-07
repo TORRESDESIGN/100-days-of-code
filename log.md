@@ -1468,3 +1468,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was another struggle, but it's now my weekend, so now my long night sessions will come.
 
 **Link to tweet:** [Daniel Torres Day 61]( https://twitter.com/RoosterMonster/status/970933850326032384 )
+
+
+
+<h2 align="center">Day 62: Tuesday March 6th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/bLgmaR?editors=0011)
+
+**Today's Progress:** I continued to work on my weather app, still struggling tough.
+
+**Thoughts:** Today was another struggle, not feeling very happy, but I'll try again tomorrow.
+
+**Link to tweet:** [Daniel Torres Day 62]( https://twitter.com/RoosterMonster/status/971318826301382656 )

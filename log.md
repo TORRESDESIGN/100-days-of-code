@@ -1492,3 +1492,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was another struggle, still not feeling very happy, but I'll try again tomorrow.
 
 **Link to tweet:** [Daniel Torres Day 63]( https://twitter.com/RoosterMonster/status/971687289196765185 )
+
+
+
+<h2 align="center">Day 64: Thursday March 8th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/bLgmaR?editors=1111)
+
+**Today's Progress:** I continued to work on my weather app, figured it out, had to change API's to able to do in codepen, but thats ok. Also getting current city and state takes forever, I kept thinking I did something wrong due to the delay.
+
+**Thoughts:** Today was a good day, I figured out the issues and many different methods to get data.
+
+**Link to tweet:** [Daniel Torres Day 64]( https://twitter.com/RoosterMonster/status/972007225773273088 )

@@ -1504,3 +1504,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was a good day, I figured out the issues and many different methods to get data.
 
 **Link to tweet:** [Daniel Torres Day 64]( https://twitter.com/RoosterMonster/status/972007225773273088 )
+
+
+
+<h2 align="center">Day 65: Friday March 9th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/bLgmaR?editors=1111)
+
+**Today's Progress:** I continued to work on my weather app, currently making my custom slider to toggle celsius and fahrenheit.
+
+**Thoughts:** Today was a good day, I got to work on my custom toggle, so practicing my CSS skills.
+
+**Link to tweet:** [Daniel Torres Day 65]( https://twitter.com/RoosterMonster/status/972373710291091456 )

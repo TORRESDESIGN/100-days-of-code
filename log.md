@@ -1528,3 +1528,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was ok, I didn't finish, but didn't have much time today.
 
 **Link to tweet:** [Daniel Torres Day 66]( https://twitter.com/RoosterMonster/status/972712484472700928 )
+
+
+
+<h2 align="center">Day 67: Sunday March 11th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/bLgmaR?editors=1111)
+
+**Today's Progress:** I continued to work on my weather app, continued to work on my custom toggle to be exact.
+
+**Thoughts:** Today was ok, It's trickier than I thought.
+
+**Link to tweet:** [Daniel Torres Day 67]( https://twitter.com/RoosterMonster/status/973072163799379968 )

@@ -1509,7 +1509,7 @@ Unicode of Cap letters = 65--90
 
 <h2 align="center">Day 65: Friday March 9th, 2018</h2>
 
-**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/bLgmaR?editors=1111)
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/jzEYQZ?editors=1100)
 
 **Today's Progress:** I continued to work on my weather app, currently making my custom slider to toggle celsius and fahrenheit.
 
@@ -1521,7 +1521,7 @@ Unicode of Cap letters = 65--90
 
 <h2 align="center">Day 66: Saturday March 10th, 2018</h2>
 
-**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/bLgmaR?editors=1111)
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/jzEYQZ?editors=1100)
 
 **Today's Progress:** I continued to work on my weather app, continued to work on my custom slider to toggle celsius and fahrenheit.
 
@@ -1533,10 +1533,22 @@ Unicode of Cap letters = 65--90
 
 <h2 align="center">Day 67: Sunday March 11th, 2018</h2>
 
-**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/bLgmaR?editors=1111)
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/jzEYQZ?editors=1100)
 
 **Today's Progress:** I continued to work on my weather app, continued to work on my custom toggle to be exact.
 
 **Thoughts:** Today was ok, It's trickier than I thought.
 
 **Link to tweet:** [Daniel Torres Day 67]( https://twitter.com/RoosterMonster/status/973072163799379968 )
+
+
+
+<h2 align="center">Day 68: Monday March 12th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/jzEYQZ?editors=1100)
+
+**Today's Progress:** I continued to work on my custom toggle, I got it to work and develope an understanding for how they function
+
+**Thoughts:** Today was good, I figured a lot of mysteries out, and my toggle looks sexy.
+
+**Link to tweet:** [Daniel Torres Day 68]( https://twitter.com/RoosterMonster/status/973493505241722880 )

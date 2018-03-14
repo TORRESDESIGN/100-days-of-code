@@ -1552,3 +1552,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was good, I figured a lot of mysteries out, and my toggle looks sexy.
 
 **Link to tweet:** [Daniel Torres Day 68]( https://twitter.com/RoosterMonster/status/973493505241722880 )
+
+
+
+<h2 align="center">Day 69: Tuesday March 13th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/jzEYQZ?editors=1100)
+
+**Today's Progress:** I continued to work on my custom toggle, did some css manipulation with it and added some more animations.
+
+**Thoughts:** Today was ok, I figured out how to manipulate CSS with JavaScript and animating distortion while it toggles
+
+**Link to tweet:** [Daniel Torres Day 69]( https://twitter.com/RoosterMonster/status/973876863348097025 )

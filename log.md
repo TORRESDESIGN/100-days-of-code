@@ -1564,3 +1564,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was ok, I figured out how to manipulate CSS with JavaScript and animating distortion while it toggles
 
 **Link to tweet:** [Daniel Torres Day 69]( https://twitter.com/RoosterMonster/status/973876863348097025 )
+
+
+
+<h2 align="center">Day 70: Wednesday March 14th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/bLgmaR)
+
+**Today's Progress:** I continued to work on my weather app, added Celsius data accesibility, weather description, and fixed consistency of showing city and state.
+
+**Thoughts:** Today was good, I got alot of details down, overcame some challenges/issues.
+
+**Link to tweet:** [Daniel Torres Day 70]( https://twitter.com/RoosterMonster/status/974241368150220800 )

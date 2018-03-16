@@ -1576,3 +1576,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was good, I got alot of details down, overcame some challenges/issues.
 
 **Link to tweet:** [Daniel Torres Day 70]( https://twitter.com/RoosterMonster/status/974241368150220800 )
+
+
+
+<h2 align="center">Day 71: Thursday March 15th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/bLgmaR)
+
+**Today's Progress:** I continued to work on my weather app, added all my custom icons and switch, just need to connect it to change temp to Celsius.
+
+**Thoughts:** Today was great, icons are all working, just got to plug in the Celsius with my switch.
+
+**Link to tweet:** [Daniel Torres Day 71]( https://twitter.com/RoosterMonster/status/974530284744949762 )

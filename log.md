@@ -1588,3 +1588,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was great, icons are all working, just got to plug in the Celsius with my switch.
 
 **Link to tweet:** [Daniel Torres Day 71]( https://twitter.com/RoosterMonster/status/974530284744949762 )
+
+
+
+<h2 align="center">Day 72: Friday March 16th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/bLgmaR)
+
+**Today's Progress:** I continued to work on my weather app, got my toggle connected and working to switch between Celsius.
+
+**Thoughts:** Today was great, App is essentially done, but may tweak some small visual details.
+
+**Link to tweet:** [Daniel Torres Day 72]( https://twitter.com/RoosterMonster/status/974894668772122624 )

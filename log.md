@@ -1600,3 +1600,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was great, App is essentially done, but may tweak some small visual details.
 
 **Link to tweet:** [Daniel Torres Day 72]( https://twitter.com/RoosterMonster/status/974894668772122624 )
+
+
+
+<h2 align="center">Day 73: Saturday March 17th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign) [CodePen](https://codepen.io/RoosterMonster/pen/bLgmaR)
+
+**Today's Progress:** I continued to work on my weather app, made it mobile friendly and just played with some ideas.
+
+**Thoughts:** Today was good, App is done, and I'm ready to move on.
+
+**Link to tweet:** [Daniel Torres Day 73]( https://twitter.com/RoosterMonster/status/975255511300947969 )

@@ -1612,3 +1612,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was good, App is done, and I'm ready to move on.
 
 **Link to tweet:** [Daniel Torres Day 73]( https://twitter.com/RoosterMonster/status/975255511300947969 )
+
+
+
+<h2 align="center">Day 74: Sunday March 18th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
+**Today's Progress:** I began on my new project, a Wikipedia Viewer, doing research and working on a blueprint on how to tackle this new project.
+
+**Thoughts:** Today was ok, just doing research and planning which is important, I'm thinking of learning React for this project.
+
+**Link to tweet:** [Daniel Torres Day 74]( https://twitter.com/RoosterMonster/status/975589867420659713 )

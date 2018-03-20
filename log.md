@@ -1624,3 +1624,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was ok, just doing research and planning which is important, I'm thinking of learning React for this project.
 
 **Link to tweet:** [Daniel Torres Day 74]( https://twitter.com/RoosterMonster/status/975589867420659713 )
+
+
+
+<h2 align="center">Day 75: Monday March 19th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
+**Today's Progress:** I continued to work on my Wikipedia Viewer app, learning React, researching and designing.
+
+**Thoughts:** Today was ok, still trying to figure out React and design layout.
+
+**Link to tweet:** [Daniel Torres Day 75]( https://twitter.com/RoosterMonster/status/975999429005123585 )

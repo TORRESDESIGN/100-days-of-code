@@ -1660,3 +1660,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was ok, didn't have that much time to spend today.
 
 **Link to tweet:** [Daniel Torres Day 77]( https://twitter.com/RoosterMonster/status/976747817573146625 )
+
+
+
+<h2 align="center">Day 78: Wednesday March 22th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
+**Today's Progress:** I continued to work on my Wikipedia Viewer app, practiced React on codepen to make sure I get it on my own.
+
+**Thoughts:** Today was ok, didn't have that much time to spend today as well.
+
+**Link to tweet:** [Daniel Torres Day 78]( https://twitter.com/RoosterMonster/status/977038204019724288 )

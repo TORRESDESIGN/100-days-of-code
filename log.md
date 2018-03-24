@@ -1639,7 +1639,7 @@ Unicode of Cap letters = 65--90
 
 
 
-<h2 align="center">Day 76: Monday March 20th, 2018</h2>
+<h2 align="center">Day 76: Tuesday March 20th, 2018</h2>
 
 **Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
 
@@ -1651,7 +1651,7 @@ Unicode of Cap letters = 65--90
 
 
 
-<h2 align="center">Day 77: Tuesday March 21th, 2018</h2>
+<h2 align="center">Day 77: Wednesday March 21th, 2018</h2>
 
 **Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
 
@@ -1663,7 +1663,7 @@ Unicode of Cap letters = 65--90
 
 
 
-<h2 align="center">Day 78: Wednesday March 22th, 2018</h2>
+<h2 align="center">Day 78: Thursday March 22th, 2018</h2>
 
 **Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
 
@@ -1672,3 +1672,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was ok, didn't have that much time to spend today as well.
 
 **Link to tweet:** [Daniel Torres Day 78]( https://twitter.com/RoosterMonster/status/977038204019724288 )
+
+
+
+<h2 align="center">Day 79: Friday March 22th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
+**Today's Progress:** I continued to work on my Wikipedia Viewer app, practiced React on codepen some more.
+
+**Thoughts:** Today was ok, got stuck on some symantics.
+
+**Link to tweet:** [Daniel Torres Day 78]( https://twitter.com/RoosterMonster/status/977431645845209088 )

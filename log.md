@@ -1699,7 +1699,7 @@ Unicode of Cap letters = 65--90
 
 
 
-<h2 align="center">Day 81: Su nday March 25th, 2018</h2>
+<h2 align="center">Day 81: Sunday March 25th, 2018</h2>
 
 **Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
 
@@ -1708,3 +1708,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was ok, learn something new, got stuck a bit.
 
 **Link to tweet:** [Daniel Torres Day 81]( https://twitter.com/RoosterMonster/status/978145765611659264 )
+
+
+
+<h2 align="center">Day 82: Monday March 26th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
+**Today's Progress:** I continued to work on my Wikipedia Viewer app, practiced React on codepen some more, learned about components and JS classes.
+
+**Thoughts:** Today was ok, learn something new, slowing down a bit to understand JS classes.
+
+**Link to tweet:** [Daniel Torres Day 82]( https://twitter.com/RoosterMonster/status/978526864200253440 )

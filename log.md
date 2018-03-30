@@ -1744,3 +1744,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was good, learn some more pivotal information, and made some simple calculations in the Render function.
 
 **Link to tweet:** [Daniel Torres Day 84]( https://twitter.com/RoosterMonster/status/979207087694659584 )
+
+
+
+<h2 align="center">Day 85: Thursday March 29th, 2018</h2>
+
+**Link to Project:** [FreeCodeCamp](https://www.freecodecamp.org/torresdesign)
+
+**Today's Progress:** I continued to work on my Wikipedia Viewer app, practiced React some more, played with render functions like event listener
+
+**Thoughts:** Today was good, learned more what render function can do. 
+
+**Link to tweet:** [Daniel Torres Day 85]( https://twitter.com/RoosterMonster/status/979568604503883777 )

@@ -1756,3 +1756,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was good, learned more what render function can do. 
 
 **Link to tweet:** [Daniel Torres Day 85]( https://twitter.com/RoosterMonster/status/979568604503883777 )
+
+
+
+<h2 align="center">Day 86: Friday March 30th, 2018</h2>
+
+**Link to Project:** [CodePen](https://codepen.io/RoosterMonster/pen/qooQNx)
+
+**Today's Progress:** I went on a tangent today, wanting to create a progress bar with svg, I started playing with svg.
+
+**Thoughts:** Today was ok, learn something new, hopefully I can figure this out real quick. 
+
+**Link to tweet:** [Daniel Torres Day 86]( https://twitter.com/RoosterMonster/status/979950145474195457 )

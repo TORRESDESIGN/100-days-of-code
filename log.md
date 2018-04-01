@@ -1768,3 +1768,16 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was ok, learn something new, hopefully I can figure this out real quick. 
 
 **Link to tweet:** [Daniel Torres Day 86]( https://twitter.com/RoosterMonster/status/979950145474195457 )
+
+
+
+<h2 align="center">Day 87: Saturday March 31st, 2018</h2>
+
+**Link to Project:** [CodePen](https://codepen.io/RoosterMonster/pen/qooQNx)
+
+**Today's Progress:** I learned how to animate an svg line as if I was drawing it live.
+
+**Thoughts:** Today was cool, learn something new, this will definitely broaden my dev skills. 
+
+**Link to tweet:** [Daniel Torres Day 87]( https://twitter.com/RoosterMonster/status/980303420505522177 )
+

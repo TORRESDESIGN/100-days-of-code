@@ -1781,3 +1781,15 @@ Unicode of Cap letters = 65--90
 
 **Link to tweet:** [Daniel Torres Day 87]( https://twitter.com/RoosterMonster/status/980303420505522177 )
 
+
+
+<h2 align="center">Day 88: Sunday April 1st, 2018</h2>
+
+**Link to Project:** [CodePen](https://codepen.io/RoosterMonster/pen/vRjPjQ)
+
+**Today's Progress:** I learned how to create a loading bar with CSS and Javascript.
+
+**Thoughts:** Today was sweet, learn something new again, was inspired and did it.
+
+**Link to tweet:** [Daniel Torres Day 88]( https://twitter.com/RoosterMonster/status/980670599012823040 )
+

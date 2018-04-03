@@ -1793,3 +1793,14 @@ Unicode of Cap letters = 65--90
 
 **Link to tweet:** [Daniel Torres Day 88]( https://twitter.com/RoosterMonster/status/980670599012823040 )
 
+
+
+<h2 align="center">Day 89: Monday April 2nd, 2018</h2>
+
+**Link to Project:** [CodePen](https://codepen.io/RoosterMonster/pen/PRaxJx?editors=1100)
+
+**Today's Progress:** I learned how to create a preloadier with CSS.
+
+**Thoughts:** Today was cool, learn something new again, but tomorrow I shall return to mny React project.
+
+**Link to tweet:** [Daniel Torres Day 89]( httpshttps://twitter.com/RoosterMonster/status/981092045375721473 )

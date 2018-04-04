@@ -1803,4 +1803,16 @@ Unicode of Cap letters = 65--90
 
 **Thoughts:** Today was cool, learn something new again, but tomorrow I shall return to mny React project.
 
-**Link to tweet:** [Daniel Torres Day 89]( httpshttps://twitter.com/RoosterMonster/status/981092045375721473 )
+**Link to tweet:** [Daniel Torres Day 89]( https://twitter.com/RoosterMonster/status/981092045375721473 )
+
+
+
+<h2 align="center">Day 90: Tuesday April 3rd, 2018</h2>
+
+//**Link to Project:** [CodePen](https://codepen.io/RoosterMonster/pen/PRaxJx?editors=1100)
+
+**Today's Progress:** Today I continued to learn ReaactJS, and brushed on my GIT commands, I'm going to practice setting up React on my text editor and start making a small little project while also utilizing GIT, rather than just staying in codepen.
+
+**Thoughts:** Today was ok, learned more about GIT and React, I look forward to tomorrow to start doing React in sublime.
+
+**Link to tweet:** [Daniel Torres Day 90]( https://twitter.com/RoosterMonster/status/981448892863610880 )

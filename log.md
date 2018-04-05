@@ -1816,3 +1816,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was ok, learned more about GIT and React, I look forward to tomorrow to start doing React in sublime.
 
 **Link to tweet:** [Daniel Torres Day 90]( https://twitter.com/RoosterMonster/status/981448892863610880 )
+
+
+
+<h2 align="center">Day 91: Wednesday April 4th, 2018</h2>
+
+//**Link to Project:** [CodePen](https://codepen.io/RoosterMonster/pen/PRaxJx?editors=1100)
+
+**Today's Progress:** Today was all about git, bash, and nano on Windows 10. I was using Powershell/git shell before.
+
+**Thoughts:** Today was a struggle to figure things out, lots of research was needed and trial and error, but I'm pretty comfy now, so thats good.
+
+**Link to tweet:** [Daniel Torres Day 91]( https://twitter.com/RoosterMonster/status/981814093995626497 )

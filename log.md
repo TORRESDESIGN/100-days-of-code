@@ -1828,3 +1828,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was a struggle to figure things out, lots of research was needed and trial and error, but I'm pretty comfy now, so thats good.
 
 **Link to tweet:** [Daniel Torres Day 91]( https://twitter.com/RoosterMonster/status/981814093995626497 )
+
+
+
+<h2 align="center">Day 92: Thursday April 5th, 2018</h2>
+
+//**Link to Project:** [CodePen](https://codepen.io/RoosterMonster/pen/PRaxJx?editors=1100)
+
+**Today's Progress:** Today I added Sublime Text to git bash, so I can use it instead of nano, Got my laptop all up to date on node, npm, etc. I also practice so ReactJS, learned about props.
+
+**Thoughts:** Today ok, I wanted to originally download and set up ReactJS the hard way, but still trying to wrap my head around all the steps involved, going to look into Redux.
+
+**Link to tweet:** [Daniel Torres Day 92]( https://twitter.com/RoosterMonster/status/982082791864123392 )

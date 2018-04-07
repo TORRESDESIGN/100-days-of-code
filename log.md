@@ -1840,3 +1840,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today ok, I wanted to originally download and set up ReactJS the hard way, but still trying to wrap my head around all the steps involved, going to look into Redux.
 
 **Link to tweet:** [Daniel Torres Day 92]( https://twitter.com/RoosterMonster/status/982082791864123392 )
+
+
+
+<h2 align="center">Day 93: Friday April 6th, 2018</h2>
+
+//**Link to Project:** [CodePen](https://codepen.io/RoosterMonster/pen/yKQYaE)
+
+**Today's Progress:** Today I did some CSS practice, started a pure css art piece.
+
+**Thoughts:** Today was ok, I did  a lot of planning for my css art piece.
+
+**Link to tweet:** [Daniel Torres Day 93]( https://twitter.com/RoosterMonster/status/982488071429013504 )

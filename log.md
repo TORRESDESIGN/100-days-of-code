@@ -1852,3 +1852,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was ok, I did  a lot of planning for my css art piece.
 
 **Link to tweet:** [Daniel Torres Day 93]( https://twitter.com/RoosterMonster/status/982488071429013504 )
+
+
+
+<h2 align="center">Day 94: Saturday April 7th, 2018</h2>
+
+//**Link to Project:** [CodePen](https://codepen.io/RoosterMonster/pen/yKQYaE?editors=1100)
+
+**Today's Progress:** Today I continue to work on my pure CSS art piece.
+
+**Thoughts:** Today was ok, I did  a lot of CSS practice, may translate it to VueJS code afterwards.
+
+**Link to tweet:** [Daniel Torres Day 94]( https://twitter.com/RoosterMonster/status/982864225147088896 )

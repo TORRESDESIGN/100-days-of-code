@@ -1887,3 +1887,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was good, my piece is almost done visually, but would liek to animate and convert to VueJS
 
 **Link to tweet:** [Daniel Torres Day 96]( https://twitter.com/RoosterMonster/status/983622531759271936 )
+
+
+
+<h2 align="center">Day 97: Tuesday April 10th, 2018</h2>
+
+//**Link to Project:** [CodePen](https://codepen.io/RoosterMonster/pen/yKQYaE?editors=1100)
+
+**Today's Progress:** Today was more work on my pure CSS art piece, I got it to animate, but want to make it clickable.
+
+**Thoughts:** Today was ok, I should probably move on from this.
+
+**Link to tweet:** [Daniel Torres Day 97]( https://twitter.com/RoosterMonster/status/983997712839462913 )

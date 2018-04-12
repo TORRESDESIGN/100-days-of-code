@@ -1899,3 +1899,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was ok, I should probably move on from this.
 
 **Link to tweet:** [Daniel Torres Day 97]( https://twitter.com/RoosterMonster/status/983997712839462913 )
+
+
+
+<h2 align="center">Day 98: Wednesday April 11th, 2018</h2>
+
+//**Link to Project:** [CodePen](https://codepen.io/RoosterMonster/pen/yKQYaE?editors=1100)
+
+**Today's Progress:** Today I did another design for my ReactJS project, and did some React coding excercises of importing and exporting.
+
+**Thoughts:** Today was ok, my designs look great, but wish I would of coded more.
+
+**Link to tweet:** [Daniel Torres Day 98]( https://twitter.com/RoosterMonster/status/984368856117362689 )

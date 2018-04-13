@@ -1911,3 +1911,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was ok, my designs look great, but wish I would of coded more.
 
 **Link to tweet:** [Daniel Torres Day 98]( https://twitter.com/RoosterMonster/status/984368856117362689 )
+
+
+
+<h2 align="center">Day 99: Thursday April 12th, 2018</h2>
+
+//**Link to Project:** 
+
+**Today's Progress:** Today I did some ReactJS excercises, some VueJS, and went to a VueJS coding meetup.
+
+**Thoughts:** Today was ok, I learned a lot of VueJS, which is making me want to use that now.
+
+**Link to tweet:** [Daniel Torres Day 99]( https://twitter.com/RoosterMonster/status/984656567919243264 )

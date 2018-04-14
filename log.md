@@ -1923,3 +1923,15 @@ Unicode of Cap letters = 65--90
 **Thoughts:** Today was ok, I learned a lot of VueJS, which is making me want to use that now.
 
 **Link to tweet:** [Daniel Torres Day 99]( https://twitter.com/RoosterMonster/status/984656567919243264 )
+
+
+
+<h2 align="center">Day 100: Friday April 13th, 2018</h2>
+
+//**Link to Project:** [CodePen](https://codepen.io/RoosterMonster/pen/mxZJjm?editors=1111)
+
+**Today's Progress:** Today a made random color generator button, I did this to take a break, and do something relatively simple in one session.
+
+**Thoughts:** Today was oddly satisfying, I took an idea and did it.
+
+**Link to tweet:** [Daniel Torres Day 100]( https://twitter.com/RoosterMonster/status/985026256981803009 )
